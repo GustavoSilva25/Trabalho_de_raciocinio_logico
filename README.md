@@ -1,2 +1,2 @@
 # Trabalho_de_raciocinio_logico
-data da entrega do trabalho 23/10/2023
+Este repositório contém material relacionado ao trabalho de Raciocínio Lógico.
